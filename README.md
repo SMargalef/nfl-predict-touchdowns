@@ -1,4 +1,4 @@
-### -predict-touchdowns
+### nfl-predict-touchdowns
  
 # Overview
 
